@@ -1,4 +1,4 @@
-This is a car rental system in PHP with Flutterwave payment system. I used MySQL for the database. This project is dedicated to my project supervisor Mr. Martin Esemua and the entire computer science department staffs of Nigerian Institute of Leather and Science Technology, Zaria (NILEST).
+This is a car rental system for Zaria Exclusive in PHP with Flutterwave payment system. I used MySQL for the database. This project is dedicated to my project supervisor Mr. Martin Esemua and the entire computer science department staffs of Nigerian Institute of Leather and Science Technology, Zaria (NILEST).
 
 HOMEPAGE
 ![Home Page](https://github.com/Josephobaje/Car-Rental-System-with-Flutterwave-payment-system/assets/52328265/fa1e019c-1adc-434e-bd9b-48434a40d6a5)
